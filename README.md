@@ -1,0 +1,2 @@
+# myChess
+qt + git stduy
